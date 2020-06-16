@@ -1,0 +1,157 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:e2e] /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [:share] /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/fa35dc840f6c52c0c07d5c460e48ff0b/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/2c721f94c3b094b571823c7b939ad32f/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/c48e48cb2a654dcb82f075aaa5aef9c9/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/9825a547aa7d095b29ee39eb1d8f1df2/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/80317eb13dc3810fb45df865e8d70f79/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/bd44f7b9325b2d3588f8fdac17d7643a/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/73cc6408de09ced8ad7035902337e11c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/2d36ea1d3368c6b9cbb68fa241ac7637/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/acdfcc07a9d8b283ff27c73a3688fad0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/e0a00430fe2071a6805d23f1a0240ce4/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test:rules:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/1b4b719d7749babde286f7f0d0b0b4a6/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/f3441fec667b2f9559153d53568ff5c9/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.test:runner:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/c84e0ce27e5734a03f99117d683b8f4c/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/9b5cf7deba70782c38de10815cd09bc5/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/a4bcef90310ce15b064855f17b491876/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.test:monitor:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/0c753f9c8252e64cfdf0dc76f6698558/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/253385d930caf1fcb7bd76dbc518067a/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/b47b7f78f6c9aece87df77a05eee2ef9/AndroidManifest.xml:17:1-24:12
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:2:5-46
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:4:5-66
+	android:name
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:4:22-64
+application
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:6:5-25:19
+MERGED from [androidx.core:core:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/bd44f7b9325b2d3588f8fdac17d7643a/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/bd44f7b9325b2d3588f8fdac17d7643a/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/a4bcef90310ce15b064855f17b491876/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/a4bcef90310ce15b064855f17b491876/AndroidManifest.xml:24:5-25:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/bd44f7b9325b2d3588f8fdac17d7643a/AndroidManifest.xml:24:18-86
+	android:label
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:6:67-96
+	android:icon
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:6:97-131
+	android:name
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:6:18-66
+activity#io.flutter.plugins.shareexample.EmbeddingV1Activity
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:7:9-13:20
+	android:launchMode
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:8:19-49
+	android:hardwareAccelerated
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:11:19-53
+	android:windowSoftInputMode
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:12:19-61
+	android:configChanges
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:10:19-112
+	android:theme
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:9:19-72
+	android:name
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:7:19-54
+activity#io.flutter.embedding.android.FlutterActivity
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:14:9-23:20
+	android:hardwareAccelerated
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:17:13-47
+	android:windowSoftInputMode
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:18:13-55
+	android:configChanges
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:16:13-106
+	android:theme
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:15:13-66
+	android:name
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:14:19-78
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:19:13-22:29
+action#android.intent.action.MAIN
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:20:17-68
+	android:name
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:20:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:21:17-76
+	android:name
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:21:27-74
+meta-data#flutterEmbedding
+ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:24:9-71
+	android:value
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:24:52-69
+	android:name
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml:24:20-51
+uses-sdk
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+MERGED from [:e2e] /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:e2e] /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/build/e2e/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [:share] /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/build/share/intermediates/library_manifest/debug/AndroidManifest.xml:5:5-44
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/fa35dc840f6c52c0c07d5c460e48ff0b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/fa35dc840f6c52c0c07d5c460e48ff0b/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/2c721f94c3b094b571823c7b939ad32f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/2c721f94c3b094b571823c7b939ad32f/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/c48e48cb2a654dcb82f075aaa5aef9c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/c48e48cb2a654dcb82f075aaa5aef9c9/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/9825a547aa7d095b29ee39eb1d8f1df2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/9825a547aa7d095b29ee39eb1d8f1df2/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/80317eb13dc3810fb45df865e8d70f79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/80317eb13dc3810fb45df865e8d70f79/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/bd44f7b9325b2d3588f8fdac17d7643a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/bd44f7b9325b2d3588f8fdac17d7643a/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/73cc6408de09ced8ad7035902337e11c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/73cc6408de09ced8ad7035902337e11c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/2d36ea1d3368c6b9cbb68fa241ac7637/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/2d36ea1d3368c6b9cbb68fa241ac7637/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/acdfcc07a9d8b283ff27c73a3688fad0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/acdfcc07a9d8b283ff27c73a3688fad0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/e0a00430fe2071a6805d23f1a0240ce4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/e0a00430fe2071a6805d23f1a0240ce4/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test:rules:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/1b4b719d7749babde286f7f0d0b0b4a6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:rules:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/1b4b719d7749babde286f7f0d0b0b4a6/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/f3441fec667b2f9559153d53568ff5c9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-core:3.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/f3441fec667b2f9559153d53568ff5c9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/c84e0ce27e5734a03f99117d683b8f4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:runner:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/c84e0ce27e5734a03f99117d683b8f4c/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/9b5cf7deba70782c38de10815cd09bc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.0.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/9b5cf7deba70782c38de10815cd09bc5/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/a4bcef90310ce15b064855f17b491876/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/a4bcef90310ce15b064855f17b491876/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/0c753f9c8252e64cfdf0dc76f6698558/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test:monitor:1.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/0c753f9c8252e64cfdf0dc76f6698558/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/253385d930caf1fcb7bd76dbc518067a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.1.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/253385d930caf1fcb7bd76dbc518067a/AndroidManifest.xml:20:5-44
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/b47b7f78f6c9aece87df77a05eee2ef9/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.test.espresso:espresso-idling-resource:3.2.0] /Users/sunny/.gradle/caches/transforms-2/files-2.1/b47b7f78f6c9aece87df77a05eee2ef9/AndroidManifest.xml:20:5-22:41
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/android/app/src/main/AndroidManifest.xml

@@ -1,0 +1,4 @@
+#Tue Jun 16 17:08:06 CST 2020
+base.0=/Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/build/app/intermediates/transforms/dexMerger/debug/0
+path.0=classes.dex
+renamed.0=classes.dex

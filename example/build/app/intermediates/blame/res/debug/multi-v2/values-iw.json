@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/sunny/Documents/Code/Jomoo/0ProjectCode/SmartLock/flutter/FlutterPackage/share/example/build/app/intermediates/incremental/mergeDebugResources/merged.dir/values-iw/values-iw.xml",
+            "map": [
+                {
+                    "source": "/Users/sunny/.gradle/caches/transforms-2/files-2.1/bd44f7b9325b2d3588f8fdac17d7643a/res/values-iw/values-iw.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    }
+                }
+            ]
+        }
+    ]
+}
